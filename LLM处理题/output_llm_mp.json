@@ -1,0 +1,602 @@
+[
+    {
+        "id": "1",
+        "Headline": "gold climbs as europe woes spur demand",
+        "Question": "Does the news headline talk about a general event (apart from prices) in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 5,
+        "gold_index": 0,
+        "class_id": 8
+    },
+    {
+        "id": "2",
+        "Headline": "Gold spurts further on dollar weakness",
+        "Question": "Does the news headline talk about price going up?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 5,
+        "gold_index": 0,
+        "class_id": 8
+    },
+    {
+        "id": "3",
+        "Headline": "gold futures drop, take cue from reversal in crude",
+        "Question": "Does the news headline talk about price?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 5,
+        "gold_index": 0,
+        "class_id": 8
+    },
+    {
+        "id": "4",
+        "Headline": "how goldman saw the gold crash coming that others missed",
+        "Question": "Does the news headline talk about price staying constant?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 5,
+        "gold_index": 0,
+        "class_id": 8
+    },
+    {
+        "id": "5",
+        "Headline": "Silver recaptures Rs 44,000-mark; gold holds steady",
+        "Question": "Does the news headline talk about price?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 5,
+        "gold_index": 0,
+        "class_id": 8
+    },
+    {
+        "id": "6",
+        "Headline": "greece default fears boost gold to 1-week high",
+        "Question": "Does the news headline compare gold with any other asset?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 5,
+        "gold_index": 0,
+        "class_id": 8
+    },
+    {
+        "id": "1",
+        "Headline": "negative bets against gold surge, could be tipping point",
+        "Question": "Does the news headline talk about price in the past?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 2,
+        "gold_index": 0,
+        "class_id": 5
+    },
+    {
+        "id": "2",
+        "Headline": "gold holds gains after december housing starts",
+        "Question": "Does the news headline talk about price?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 2,
+        "gold_index": 0,
+        "class_id": 5
+    },
+    {
+        "id": "3",
+        "Headline": "gold price nearly triples during bernanke tenure: bespoke",
+        "Question": "Does the news headline talk about price in the past?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 2,
+        "gold_index": 0,
+        "class_id": 5
+    },
+    {
+        "id": "4",
+        "Headline": "gold futures down $3.90 at $1,244.80 an ounce",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 2,
+        "gold_index": 0,
+        "class_id": 5
+    },
+    {
+        "id": "5",
+        "Headline": "Gold futures rise to Rs 26,448 per 10 gm",
+        "Question": "Does the news headline talk about price going up?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 2,
+        "gold_index": 0,
+        "class_id": 5
+    },
+    {
+        "id": "6",
+        "Headline": "stocks rise depite weakness in oil, gold prices",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "",
+        "Question Type": "Yes/No",
+        "item_id": 2,
+        "gold_index": 0,
+        "class_id": 5
+    },
+    {
+        "id": "1",
+        "Headline": "Gold ends at 1-month low, edges up in electronic trade after Fed statement",
+        "Question": "Does the news headline talk about price going down?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 9,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "2",
+        "Headline": "gold demand in india sluggish as price hardens",
+        "Question": "Does the news headline talk about a general event (apart from prices) in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 9,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "3",
+        "Headline": "gold imports dip 18.4% to rs 71,912 crore in april-june",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 9,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "4",
+        "Headline": "spot gold rates decline in major metros in india",
+        "Question": "Does the news headline talk about price?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 9,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "5",
+        "Headline": "gold, silver trade lower in morning deals",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 9,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "6",
+        "Headline": "gold prices ease despite slightly weaker dollar",
+        "Question": "Does the news headline talk about price?",
+        "Answer": "",
+        "Question Type": "Yes/No",
+        "item_id": 9,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "1",
+        "Headline": "gold closes lower as dollar rises",
+        "Question": "Does the news headline talk about price going up?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 3,
+        "gold_index": 1,
+        "class_id": 3
+    },
+    {
+        "id": "2",
+        "Headline": "Support for MCX Gold Dec at Rs 28500: Kotak Commodity",
+        "Question": "Does the news headline talk about price going up?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 3,
+        "gold_index": 1,
+        "class_id": 3
+    },
+    {
+        "id": "3",
+        "Headline": "iamgold leads mining shares lower; gold dulls",
+        "Question": "Does the news headline talk about a general event (apart from prices) in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 3,
+        "gold_index": 1,
+        "class_id": 3
+    },
+    {
+        "id": "4",
+        "Headline": "Gold futures fall to Rs 28,178 on weak global cues",
+        "Question": "Does the news headline talk about price in the past?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 3,
+        "gold_index": 1,
+        "class_id": 3
+    },
+    {
+        "id": "5",
+        "Headline": "Gold hits one-week low as dollar firms up",
+        "Question": "Does the news headline talk about price going down?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 3,
+        "gold_index": 1,
+        "class_id": 3
+    },
+    {
+        "id": "6",
+        "Headline": "December gold closes $23, or 1.7%, to settle at $1,344.40/oz.",
+        "Question": "Does the news headline talk about price going down?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 3,
+        "gold_index": 1,
+        "class_id": 3
+    },
+    {
+        "id": "1",
+        "Headline": "february gold rallies to intraday high of $900.50 an ounce",
+        "Question": "Does the news headline talk about price?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 1,
+        "gold_index": 0,
+        "class_id": 7
+    },
+    {
+        "id": "2",
+        "Headline": "gold closes 2.2% lower at $1,338.40 an ounce",
+        "Question": "Does the news headline talk about price in the past?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 1,
+        "gold_index": 0,
+        "class_id": 7
+    },
+    {
+        "id": "3",
+        "Headline": "Gold prices trading higher in Mumbai, Chennai market",
+        "Question": "Does the news headline talk about price in the past?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 1,
+        "gold_index": 0,
+        "class_id": 7
+    },
+    {
+        "id": "4",
+        "Headline": "government fixes rate at rs 2987/gm for sovereign gold bond",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 1,
+        "gold_index": 0,
+        "class_id": 7
+    },
+    {
+        "id": "5",
+        "Headline": "Gold dips on stronger dollar, speculative selling",
+        "Question": "Does the news headline talk about price staying constant?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 1,
+        "gold_index": 0,
+        "class_id": 7
+    },
+    {
+        "id": "6",
+        "Headline": "gold, silver cover lost ground, spurt on fresh demand",
+        "Question": "Does the news headline talk about a general event (apart from prices) in the future?",
+        "Answer": "",
+        "Question Type": "Yes/No",
+        "item_id": 1,
+        "gold_index": 0,
+        "class_id": 7
+    },
+    {
+        "id": "1",
+        "Headline": "june gold down $3.20, or 0.2%, to end at $1,305.90/oz",
+        "Question": "Does the news headline talk about price going up?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 6,
+        "gold_index": 0,
+        "class_id": 6
+    },
+    {
+        "id": "2",
+        "Headline": "metals shares end higher, following strength in gold",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 6,
+        "gold_index": 0,
+        "class_id": 6
+    },
+    {
+        "id": "3",
+        "Headline": "gold, silver fall on reduced offtake, global cues",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 6,
+        "gold_index": 0,
+        "class_id": 6
+    },
+    {
+        "id": "4",
+        "Headline": "Selling seen in spot gold prices",
+        "Question": "Does the news headline talk about a general event (apart from prices) in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 6,
+        "gold_index": 0,
+        "class_id": 6
+    },
+    {
+        "id": "5",
+        "Headline": "gold slips from record highs on weak demand, global cues",
+        "Question": "Does the news headline talk about price going up?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 6,
+        "gold_index": 0,
+        "class_id": 6
+    },
+    {
+        "id": "6",
+        "Headline": "citi sees gold prices at $1,337/oz second half 2014",
+        "Question": "Does the news headline talk about a general event (apart from prices) in the past?",
+        "Answer": "",
+        "Question Type": "Yes/No",
+        "item_id": 6,
+        "gold_index": 0,
+        "class_id": 6
+    },
+    {
+        "id": "1",
+        "Headline": "jewellers' body opposes government's move to increase import duty on gold",
+        "Question": "Does the news headline talk about price going down?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 8,
+        "gold_index": 0,
+        "class_id": 2
+    },
+    {
+        "id": "2",
+        "Headline": "gold zooms above rs 32,000-level on strong marriage season demand",
+        "Question": "Does the news headline compare gold with any other asset?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 8,
+        "gold_index": 0,
+        "class_id": 2
+    },
+    {
+        "id": "3",
+        "Headline": "india's gold demand up 15% to 123.5 tonne in q1 2017: world gold council",
+        "Question": "Does the news headline talk about price going down?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 8,
+        "gold_index": 0,
+        "class_id": 2
+    },
+    {
+        "id": "4",
+        "Headline": "Gold Prices Remain 5-Month Lows with Fed in Focus",
+        "Question": "Does the news headline talk about a general event (apart from prices) in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 8,
+        "gold_index": 0,
+        "class_id": 2
+    },
+    {
+        "id": "5",
+        "Headline": "Gold prices hold steady in early Asia with demand cues awaited",
+        "Question": "Does the news headline talk about price going up?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 8,
+        "gold_index": 0,
+        "class_id": 2
+    },
+    {
+        "id": "6",
+        "Headline": "Gold holds modest gains after consumer-sentiment, home-sales data",
+        "Question": "Does the news headline talk about price staying constant?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 8,
+        "gold_index": 0,
+        "class_id": 2
+    },
+    {
+        "id": "1",
+        "Headline": "gold adds $42, or 2.4%, to trade at $1,833.30/oz",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 4,
+        "gold_index": 0,
+        "class_id": 1
+    },
+    {
+        "id": "2",
+        "Headline": "Gold prices to trade higher today: Angel Commodities",
+        "Question": "Does the news headline talk about price staying constant?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 4,
+        "gold_index": 0,
+        "class_id": 1
+    },
+    {
+        "id": "3",
+        "Headline": "Barrick Gold downgraded to sector perform from outperform at RBC Capital",
+        "Question": "Does the news headline talk about price staying constant?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 4,
+        "gold_index": 0,
+        "class_id": 1
+    },
+    {
+        "id": "4",
+        "Headline": "April gold trades at $1,223.60 /oz, down $2.20, or 0.2%",
+        "Question": "Does the news headline talk about price?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 4,
+        "gold_index": 0,
+        "class_id": 1
+    },
+    {
+        "id": "5",
+        "Headline": "Gold futures up at at Rs 30,188 per 10 gm",
+        "Question": "Does the news headline talk about price going down?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 4,
+        "gold_index": 0,
+        "class_id": 1
+    },
+    {
+        "id": "6",
+        "Headline": "goldcorp board rejects glamis gold takeover bid",
+        "Question": "Does the news headline talk about price going up?",
+        "Answer": "",
+        "Question Type": "Yes/No",
+        "item_id": 4,
+        "gold_index": 0,
+        "class_id": 1
+    },
+    {
+        "id": "1",
+        "Headline": "Gold falls to Rs 30,800; silver down at Rs 41,200 per kg",
+        "Question": "Does the news headline talk about price in the past?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 0,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "2",
+        "Headline": "gold futures add to gains after adp data",
+        "Question": "Does the news headline talk about price?",
+        "Answer": "Yes",
+        "Question Type": "Yes/No",
+        "item_id": 0,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "3",
+        "Headline": "Gold holds on to modest loss after data",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 0,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "4",
+        "Headline": "spot gold quoted at $417.50, down 20c from new york",
+        "Question": "Does the news headline talk about a general event (apart from prices) in the past?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 0,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "5",
+        "Headline": "gold hits new record high at $1,036.20 an ounce",
+        "Question": "Does the news headline compare gold with any other asset?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 0,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "6",
+        "Headline": "gold may hit rs 31,500, but pullback rally may not sustain for long: experts",
+        "Question": "Does the news headline talk about price?",
+        "Answer": "",
+        "Question Type": "Yes/No",
+        "item_id": 0,
+        "gold_index": 1,
+        "class_id": 0
+    },
+    {
+        "id": "1",
+        "Headline": "Dec. gold falls $1, or less than 0.1%, to settle at $1,273.50/oz",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 7,
+        "gold_index": 1,
+        "class_id": 4
+    },
+    {
+        "id": "2",
+        "Headline": "Gold prices fall in Asia on downbeat reaction to Yellen remark",
+        "Question": "Does the news headline compare gold with any other asset?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 7,
+        "gold_index": 1,
+        "class_id": 4
+    },
+    {
+        "id": "3",
+        "Headline": "the case for gold in the era of financial virtual reality",
+        "Question": "Does the news headline compare gold with any other asset?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 7,
+        "gold_index": 1,
+        "class_id": 4
+    },
+    {
+        "id": "4",
+        "Headline": "silver climbs 5% as gold tops $1,500",
+        "Question": "Does the news headline talk about price going down?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 7,
+        "gold_index": 1,
+        "class_id": 4
+    },
+    {
+        "id": "5",
+        "Headline": "commodity bets: expert views on crude, gold, copper, lead",
+        "Question": "Does the news headline talk about price in the future?",
+        "Answer": "No",
+        "Question Type": "Yes/No",
+        "item_id": 7,
+        "gold_index": 1,
+        "class_id": 4
+    },
+    {
+        "id": "6",
+        "Headline": "February gold up $3.70, or 0.3%, at $1,134.40/oz.",
+        "Question": "Does the news headline talk about price in the past?",
+        "Answer": "",
+        "Question Type": "Yes/No",
+        "item_id": 7,
+        "gold_index": 1,
+        "class_id": 4
+    }
+]
